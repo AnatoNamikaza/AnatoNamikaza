@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AnatoNamikaza
 - 👀 I’m interested in Computer Science Related topics.
 - 🌱 I’m currently learning Trading Languages.
-- 💞️ I’m looking to collaborate on AI, Quantum Computing, Bioinformatics, Internet of Things, Information Security and other advance fields.
+- 💞️ I’m looking to collaborate on: 
+- - - AI, Quantum Computing, Bioinformatics, Internet of Things, Information Security and other advance fields.
 - 📫 How to reach me is via my email: anato.namkikaza.01@gmail.com
 
 <!---
