@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/3HeZ.gif)](https://i.gifer.com/3HeZ.gif)
+![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 
 <h1 align="center">Hi 👋, I'm Anato Namikaza</h1>
 <h3 align="center">Here to solve your problems. The motto is "Coding to Perfection."</h3>
@@ -8,6 +8,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anatonamikaza&label=Profile%20views&color=0e75b6&style=flat" alt="anatonamikaza" /> </p>
 
 - 🔭 I’m currently working on **Trading Languages**
+- 🤝 I’m looking to collaborate on:
+
+    1. Artificial Intelligence
+    2. Blockchain
+    3. Bioinformatics
+    4. Cloud Computing
+    5. Computer Vision
+    6. Data Analysis and Visualization
+    7. Internet of Things
+    8. Information Security
+    9. Quantum Computing
+        
+    and other advanced fields.
+
 
 - 📫 How to reach me **anato.namkikaza.01@gmail.com**
 
