@@ -33,26 +33,29 @@
 <h3 align="center">Statistics</h3>
 <hr/>
 
-<p align="center">
-<a href="https://github.com/anatonamikaza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anatonamikaza&theme=transparent" alt="anatonamikaza's GitHub streak"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anatonamikaza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" alt="anatonamikaza's GitHub Contribution"/>
-</a>
-</p>
-
 <a> 
     <a href="https://github.com/anatonamikaza">
         <img alt="anatonamikaza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anatonamikaza&show_icons=true&count_private=true&theme=transparent" height="192px" width="49.5%"/>
     </a>
     <a href="https://github.com/anatonamikaza">
-        <img alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut&theme=transparent&langs_count=4" height="192px" width="49.5%"/>
+        <img alt="anatonamikaza's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anatonamikaza&show_icons=true&count_private=true&theme=transparent" height="192px" width="49.5%" />
     </a>
 </a>
+
+<br>
+<br>
+<p align="center">
+<a href="https://github.com/anatonamikaza">
+    <img alt="anatonamikaza's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" width="90%" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/anatonamikaza">
+    <img alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
+</a>
+</p>
+
 <hr/>
 
 <!-- Statistics End -->
