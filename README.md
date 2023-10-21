@@ -25,21 +25,12 @@
   </li>
 </ul>
 </div>
-
-<!-- Contact Start -->
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdul-rehman-8963bb236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rehman-8963bb236" height="30" width="40" /></a>
-<a href="https://instagram.com/anatonamikaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anatonamikaza" height="30" width="40" /></a>
-</p>
 <br>
-<!-- Contact End -->
-
 
 <!-- Statistics Start -->
 
-<h3 align="left">Statistics:</h3>
+<h3 align="center">Statistics</h3>
 <hr/>
 
 <p align="center">
@@ -65,10 +56,11 @@
 <hr/>
 
 <!-- Statistics End -->
+
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <br>
-<p align="left"> 
+<p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a>
