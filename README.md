@@ -35,10 +35,10 @@
 
 <a> 
     <a href="https://github.com/anatonamikaza">
-        <img alt="anatonamikaza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anatonamikaza&show_icons=true&count_private=true&theme=transparent" height="192px" width="49.5%"/>
+        <img alt="anatonamikaza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anatonamikaza&show_icons=true&count_private=true&theme=transparent" width="47.5%"/>
     </a>
     <a href="https://github.com/anatonamikaza">
-        <img alt="anatonamikaza's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anatonamikaza&show_icons=true&count_private=true&theme=transparent" height="192px" width="49.5%" />
+        <img alt="anatonamikaza's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anatonamikaza&show_icons=true&count_private=true&theme=transparent" width="47.5%" />
     </a>
 </a>
 
