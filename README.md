@@ -26,9 +26,9 @@
 </ul>
 </div>
 <br>
-<br>
 
 <!-- Statistics Start -->
+<hr/>
 
 <h3 align="center">Statistics</h3>
 <hr/>
@@ -60,9 +60,9 @@
 
 <!-- Statistics End -->
 
-<br>
 <h3 align="center">Languages and Tools</h3>
-<br>
+<hr/>
+
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
