@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center">Hi 👋, I'm Anato Namikaza</h1>
-<img align="right" alt="Coding" width="40%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="32%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <!-- 
 -->
 
@@ -59,7 +59,7 @@
 
 <!-- 
 <img align="left" alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="25%"/>
-<img align="left" alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="25%"/>
+<img align="left" alt="anatonamikaza's Top Languages" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="25%"/>
 -->
 
 <hr/>
