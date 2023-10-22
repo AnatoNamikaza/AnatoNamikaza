@@ -1,30 +1,24 @@
 ![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
-<!-- -->
 <h1 align="center">Hi 👋, I'm Anato Namikaza</h1>
 <img align="right" alt="Coding" width=400px src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!-- 
+-->
 
-<div class="transbox" style="margin: 4%; background-color: #ffffff; border: 1px solid black; opacity: 0.6;">
-<ul>
-  <li>🔭 I’m currently working on <strong>Trading Languages</strong></li>
-  <li>🤝 I’m looking to collaborate on:
-    <ol>
-      <li>Artificial Intelligence</li>
-      <li>Blockchain</li>
-      <li>Bioinformatics</li>
-      <li>Cloud Computing</li>
-      <li>Computer Vision</li>
-      <li>Data Analysis and Visualization</li>
-      <li>Internet of Things</li>
-      <li>Information Security</li>
-      <li>Quantum Computing</li>
-    </ol>
-  </li>
-    <br>
-  <li>📫 How to reach me 
-    <a href="mailto:anato.namkikaza.01@gmail.com">anato.namkikaza.01@gmail.com</a>
-  </li>
-</ul>
-</div>
+🤝 I’m looking to collaborate on:
+
+    1. Artificial Intelligence
+    2. Blockchain
+    3. Bioinformatics
+    4. Cloud Computing
+    5. Computer Vision
+    6. Data Analysis and Visualization
+    7. Internet of Things
+    8. Information Security
+    9. Quantum Computing
+    
+    and other advance fields
+
+📫 How to reach me is via my email: anato.namkikaza.01@gmail.com
 <br>
 
 <!-- Statistics Start -->
@@ -44,17 +38,30 @@
 
 <br>
 <br>
-<p align="center">
-<a href="https://github.com/anatonamikaza">
-    <img alt="anatonamikaza's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" width="90%" />
+<a> 
+    <a href="https://github.com/anatonamikaza" align="right">
+        <img alt="anatonamikaza's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" width="80%" />
+    </a>
+    <a href="https://github.com/anatonamikaza" align="left">
+        <img alt="Globe" src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" width="19%">
+    </a>
 </a>
-</p>
+<br>
+<br>
 
 <p align="center">
-<a href="https://github.com/anatonamikaza">
-    <img alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=50" width="25%"/>
-</a>
+  <a href="https://github.com/anatonamikaza">
+    <img align="center" alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
+  </a>
 </p>
+
+
+<!-- 
+<img align="left" alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="25%"/>
+
+-->
+
+
 
 <hr/>
 
