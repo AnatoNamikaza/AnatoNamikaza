@@ -58,10 +58,8 @@
 
 <!-- 
 <img align="left" alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="25%"/>
-
+<img align="left" alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="25%"/>
 -->
-
-
 
 <hr/>
 
