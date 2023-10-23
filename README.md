@@ -256,5 +256,11 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+        <img src="https://static-00.iconduck.com/assets.00/emacs-icon-2048x2016-penvelgl.png" alt="xd" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1024px-Lisp_logo.svg.png" alt="xd" width="40" height="40"/> 
+    </a> 
       
 </p>
