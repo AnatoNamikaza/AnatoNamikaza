@@ -8,7 +8,7 @@
 
     1. Artificial Intelligence
     2. Blockchain
-    3. Bioinformatics
+    3. Bioinformatics / Neuro-Science
     4. Cloud Computing
     5. Computer Vision
     6. Data Analysis and Visualization
