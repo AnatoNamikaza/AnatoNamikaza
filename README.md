@@ -32,8 +32,7 @@
     <a href="https://github.com/anatonamikaza" align="left">
         <img alt="anatonamikaza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anatonamikaza&show_icons=true&count_private=true&theme=transparent" width="48.5%"/>
     </a>
-    <a href="https://github.com/anatonamikaza" align="right">
-        <img alt="anatonamikaza's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anatonamikaza&show_icons=true&count_private=true&theme=transparent" width="51%" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anatonamikaza&theme=transparent" alt="GitHub Streak" />
     </a>
 </a>
 
