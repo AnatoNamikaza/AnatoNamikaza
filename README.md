@@ -37,7 +37,6 @@
         <img alt="Globe" src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" width="19%">
     </a>
 </a>
-<img src="https://komarev.com/ghpvc/?username=anatonamikaza&label=VISITORS&style=flat-square&color=3b82f6" alt="Visitor Badge" style="margin: 10px;" align="right" />
 
 <!-- Section 1 end -->
 
@@ -72,7 +71,14 @@
 
 </p>
 
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?color=orange&label=REP&logo=stackoverflow&style=flat-square" align="right"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anatonamikaza&theme=algolia&row=1&column=9" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?color=orange&label=REP&logo=stackoverflow&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=anatonamikaza&label=VISITORS&style=flat-square&color=3b82f6" alt="Visitor Badge" style="margin: 10px;" />
+</p>
 
 <!--
 <table align="center">
@@ -102,7 +108,6 @@
 </table>
 -->
 
-<br>
 <!-- Section 3 End -->
 
 <!-- 
