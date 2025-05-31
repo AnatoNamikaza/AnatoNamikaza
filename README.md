@@ -68,7 +68,7 @@
   <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=transparent&layout=compact" width="49.5%" />
 </a>
 
-<img  alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="27%" align="top"/>
+<img alt="anatonamikaza's Terminal" src="https://raw.githubusercontent.com/AnatoNamikaza/AnatoNamikaza/main/img/terminal2.gif" width="27%" align="top"/>
 
 </p>
 
