@@ -20,8 +20,8 @@
 <br>
 
 📫 How to reach me is via my email: anato.namkikaza.01@gmail.com
-<br>
-
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=anatonamikaza&label=VISITORS&style=flat-square&color=3b82f6" alt="Visitor Badge" style="margin: 10px;" />
 <!-- Statistics Start -->
 <hr/>
 
@@ -55,6 +55,7 @@
     <img align="center" alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
   </a>
 </p>
+
 
 
 <!-- 
