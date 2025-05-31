@@ -21,12 +21,30 @@
 
 📫 How to reach me is via my email: anato.namkikaza.01@gmail.com
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=anatonamikaza&label=VISITORS&style=flat-square&color=3b82f6" alt="Visitor Badge" style="margin: 10px;" />
 <!-- Statistics Start -->
 <hr/>
 
 <h3 align="center">Statistics</h3>
 <hr/>
+
+<!-- Section 1 -->
+
+<a> 
+    <a href="https://github.com/anatonamikaza" align="right">
+        <img alt="anatonamikaza's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" width="80%" />
+    </a>
+    <a href="https://github.com/anatonamikaza" align="left">
+        <img alt="Globe" src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" width="19%">
+    </a>
+</a>
+<img src="https://komarev.com/ghpvc/?username=anatonamikaza&label=VISITORS&style=flat-square&color=3b82f6" alt="Visitor Badge" style="margin: 10px;" align="right" />
+
+<!-- Section 1 end -->
+
+<br>
+<br>
+
+<!-- Section 2 -->
 
 <a> 
     <a href="https://github.com/anatonamikaza" align="left">
@@ -37,29 +55,57 @@
     </a>
 </a>
 
-<br>
-<br>
-<a> 
-    <a href="https://github.com/anatonamikaza" align="right">
-        <img alt="anatonamikaza's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" width="80%" />
-    </a>
-    <a href="https://github.com/anatonamikaza" align="left">
-        <img alt="Globe" src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" width="19%">
-    </a>
-</a>
+<!-- Section 2 End -->
+
 <br>
 <br>
 
-<p align="center">
-  <a href="https://github.com/anatonamikaza">
-    <img align="center" alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
-  </a>
+<!-- Section 3 -->
+
+<p>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=16" width="22%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=transparent&layout=compact" width="49.5%" />
+</a>
+
+<img  alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="27%" align="top"/>
+
 </p>
 
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?color=orange&label=REP&logo=stackoverflow&style=flat-square" align="right"/>
 
+<!--
+<table align="center">
+  <tr>
+    <td width = "27%">
+        <br>
+        <img alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatonamikaza&layout=donut-vertical&theme=transparent&langs_count=16" />
+        <br>
+    </td>
+    <td align="center" width = "50%">
+<br>
+        
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        
+        
+<br>
+    </td>
+      <td align="center" width="33%" padding="0%">
+    <br>
+<img  alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" />
+    <br>
+          <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?color=orange&label=REP&logo=stackoverflow&style=flat-square"  />
+</td>
+
+  </tr>
+
+
+</table>
+-->
+
+<br>
+<!-- Section 3 End -->
 
 <!-- 
-<img align="left" alt="anatonamikaza's Top Languages" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="25%"/>
 <img align="left" alt="anatonamikaza's Top Languages" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="25%"/>
 -->
 
